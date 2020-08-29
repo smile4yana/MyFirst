@@ -1,0 +1,12 @@
+/*jslint node: true */
+"use strict";
+
+// const category = 'toys';
+// console.log(`https://someurl.com/toys/${category}/5');
+
+let incr = 10,
+    decr = 10;
+   
+
+    console.log(incr++);
+    console.log(decr++);
